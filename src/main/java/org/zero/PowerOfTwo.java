@@ -1,4 +1,4 @@
-package org.zero.other;
+package org.zero;
 
 /**
  * @author Zero (cnzeropro@qq.com)

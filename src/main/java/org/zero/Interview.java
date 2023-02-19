@@ -1,4 +1,4 @@
-package org.zero.other;
+package org.zero;
 
 import java.util.Collections;
 import java.util.Comparator;

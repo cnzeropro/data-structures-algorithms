@@ -1,8 +1,6 @@
-package org.zero.other;
+package org.zero;
 
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 /**
  * @author Zero (cnzeropro@qq.com)

@@ -1,4 +1,4 @@
-package org.zero.other;
+package org.zero;
 
 /**
  * Fast Inverse Square Root（快速平方根倒数算法）
