@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.zero</groupId>
-    <artifactId>algorithm</artifactId>
+    <artifactId>data-structures-algorithms</artifactId>
     <version>1.0.0</version>
 
-    <name>algorithm</name>
-    <description>algorithm</description>
+    <name>data-structures-algorithms</name>
+    <description>数据结构与算法的 Java 实现与练习集合</description>
 
     <properties>
         <java.version>1.8</java.version>
